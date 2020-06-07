@@ -1,8 +1,12 @@
 # up-vue
 
+### description
+
+vue + ts 自定义组件库
+
 ## Project setup
 ```
-yarn install
+yarn
 ```
 
 ### Compiles and hot-reloads for development
